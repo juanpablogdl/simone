@@ -21,7 +21,7 @@ msgstr ""
 #. translators: %s = single category title
 #: archive.php:22
 #, php-format
-msgid "Posts in the %s category:"
+msgid "Posts in the %s category:."
 msgstr "Entradas en la categoría %s"
 
 #. translators: %s = single tag title
